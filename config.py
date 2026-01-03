@@ -136,7 +136,7 @@ EXCEP_CHATS = ""
 # M/L Buttons
 SCREENSHOTS_MODE = "False"
 SHOW_MEDIAINFO = "False"
-SAVE_MSG = "False"
+SAVE_MSG = "True"
 SOURCE_LINK = "False"
 
 # Token system
